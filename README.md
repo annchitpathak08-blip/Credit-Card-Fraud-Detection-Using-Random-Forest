@@ -61,33 +61,28 @@ After downloading the dataset, place it in the project directory before running 
 
 ---
 
-## Installation
+## Requirements
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-Move into the project directory:
-
-```bash
-cd your-repository
-```
-
-Install the required libraries:
+Install all required Python libraries using the provided **Requirements.txt** file.
 
 ```bash
 pip install -r Requirements.txt
 ```
 
-Run the project:
+The project primarily uses the following libraries:
+
+* Python 3.x
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+Once the dependencies are installed and the dataset has been downloaded, run the project using:
 
 ```bash
 python a_CreditCard_Fraud.py
 ```
 
----
 
 ## Model Evaluation
 

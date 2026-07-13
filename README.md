@@ -162,6 +162,18 @@ This project strengthened my understanding of:
 
 ---
 
+## Dataset
+
+This project uses the **Credit Card Fraud Detection** dataset, which contains anonymized credit card transactions labeled as fraudulent or legitimate.
+
+**Download Dataset:**
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place the `creditcard.csv` file in the project directory before running the script.
+
+---
+
 ## License
 
 This project is released under the MIT License.
